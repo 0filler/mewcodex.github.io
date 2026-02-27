@@ -5179,11 +5179,11 @@
       "description_2": "Steal an allied cat's next turn for yourself.\r\n[s:.7](This spell costs 1 mana.)[/s]",
       "description_texts": {
         "en": "Steal an allied cat's next turn for yourself.",
-        "zh": "偷取一之友军猫咪的\r\n下一次行动回合为己用。"
+        "zh": "偷取一只友军猫咪的\r\n下一次行动回合为己用。"
       },
       "description2_texts": {
         "en": "Steal an allied cat's next turn for yourself.\r\n[s:.7](This spell costs 1 mana.)[/s]",
-        "zh": "偷取一之友军猫咪的\r\n下一次行动回合为己用。\r\n[s:.7](此法术消耗 1 点法力值。)[/s]"
+        "zh": "偷取一只友军猫咪的\r\n下一次行动回合为己用。\r\n[s:.7](此法术消耗 1 点法力值。)[/s]"
       },
       "ability_class": "Butcher",
       "ability_pools": [
